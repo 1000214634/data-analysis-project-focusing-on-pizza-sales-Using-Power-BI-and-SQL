@@ -12,5 +12,6 @@ Designed interactive Power BI dashboards with dynamic visualizations such as sal
 DASHBOARD:
 ![image](https://github.com/user-attachments/assets/197c9d9a-03c0-474e-8de0-83306e94dba1)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/95c6a0a8-6b09-4fa4-a697-b8b7e62e9769)
+
 
